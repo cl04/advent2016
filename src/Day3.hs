@@ -1,3 +1,5 @@
+module Day3 where
+
 import qualified Data.ByteString as S
 import qualified Data.ByteString.Char8 as C
 import           Data.ByteString (ByteString)

@@ -1,3 +1,5 @@
+module Day4 where
+
 import qualified Data.Map as Map
 import           Data.Map (Map)
 import           Data.Tuple
